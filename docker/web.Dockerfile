@@ -1,0 +1,4 @@
+FROM
+
+# copy project
+COPY . .
